@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyContactsApp</string>
+    <string name="numberplaceholder">***********</string>
+    <string name="share">Share</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="firstName">First Name</string>
+    <string name="no_of_contacts">No of Contacts</string>
+    <string name="exitDialog">Exit</string>
+    <string name="search">Search</string>
+</resources>
